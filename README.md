@@ -8,10 +8,10 @@ El objetivo de la práctica es el de configurar un dominio y un certificado de s
 
 ## Prerequisitos
 
-#### 1. Contar con usuario y contraseña de la cuenta GCP, en caso de no contar con ello no se podrá realizar la práctica.
-#### 2. Instancia GCP corriendo y con su ip estatica.
-#### 3. Práctica 2 realizada
-#### 4. Registro en: <https://education.github.com/pack>
+1. Contar con usuario y contraseña de la cuenta GCP, en caso de no contar con ello no se podrá realizar la práctica.
+2. Instancia GCP corriendo y con su ip estatica.
+3. Práctica 2 realizada
+4. Registro en: <https://education.github.com/pack>
 
 
 # Desarrollo
