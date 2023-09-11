@@ -24,6 +24,11 @@ El objetivo de la práctica es el de configurar un dominio y un certificado de s
 6.  Se realiza el análisis de tráfico con Wireshark utilizando el formulario (replicar demo de la práctica 3 y capturar pantallas).
 7.  Detener instancia GCP.
 
+## Guia para su desarrollo
+Se ha desarrollado una guia para familiarizarse con el entorno de Google Cloud y pueden llevar a acabo la practica: <https://docs.google.com/document/d/1itxSHdvyXPbGODIbd84nFmYdofqtQfy_zq4gYjbdAIE/edit?usp=sharing>
+
+NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad los pasos para llevar acabo la practica.
+
 # Evaluación
 
 1.  Describir con sus propias palabras ¿Qué es un DNS?
