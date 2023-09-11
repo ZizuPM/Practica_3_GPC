@@ -16,7 +16,7 @@ El objetivo de la práctica es el de configurar un dominio y un certificado de s
 
 # Desarrollo
 
-1.  Se elige un dominio en <https://www.freenom.com> el cual es gratuito [video](https://gitlab.com/ismael.andrade/laboratorio-de-redes/blob/master/lab4/videos/lab4-freenom.mov?expanded=true&viewer=rich)
+1.  Se elige un dominio en <https://get.tech/github-student-developer-pack> el cual es gratuito.
 2.  Se crea un registro A para que se direccione a la IP elástica de AWS [video](https://gitlab.com/ismael.andrade/laboratorio-de-redes/blob/master/lab4/videos/lab4-registro-a.mov?expanded=true&viewer=rich)
 3.  Se valida la replicación en todo el mundo del dominio adquirido[video](https://gitlab.com/ismael.andrade/laboratorio-de-redes/blob/master/lab4/videos/lab4-dnscheck.mov?expanded=true&viewer=rich)
 4.  Se instala cerbot para certificado de LetsEncrypt.org [video](https://gitlab.com/ismael.andrade/laboratorio-de-redes/blob/master/lab4/videos/lab4-letsencrypt.mov?expanded=true&viewer=rich)
